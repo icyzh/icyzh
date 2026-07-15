@@ -8,7 +8,7 @@
 
 ［ icyzh ］
 ────────────────────────
-ai engineer and researcher
+ai engineer
 
 ［ tech stack ］
 ────────────────────────
