@@ -17,6 +17,6 @@ ai · c++ · opencv
 
 ［ links ］
 ────────────────────────
-<a href="https://leetcode.com/u/icybear02/">leetcode</a> · <a href="mailto:vimzh.dev@gmail.com">icyzh.dev@gmail.com</a> · <a href="https://icyzh.dev">portfolio</a>
+<a href="https://leetcode.com/u/icybear02/">leetcode</a> · <a href="mailto:vimzh.dev@gmail.com">icyzh.dev@proton.me</a> · <a href="https://icyzh.dev">portfolio</a>
   </pre>
 </div>
