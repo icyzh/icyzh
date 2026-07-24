@@ -10,9 +10,15 @@
 ────────────────────────
 ai engineer
 
+［ wins ］
+────────────────────────
+1st Place
+OpenAI Build Week
+Codex Hackathon
+
 ［ tech stack ］
 ────────────────────────
-react · nodejs · python · databases  
+react · nodejs · python · cuda
 ai · c++ · opencv
 
 ［ links ］
