@@ -1,28 +1,22 @@
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mmadan128&color=00ff88&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Mmadan128)
-[![Holopin](https://holopin.me/mmadan128)](https://holopin.io/@mmadan128)
+<img src="./assets/header.svg" width="100%" alt="icyzh — ai engineer. stack: cuda, c++, python, react, node, opencv" />
 
-<div align="center">
-  <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 14px; color: #888;">
-
-［ icyzh ］
-────────────────────────
-ai engineer
-
-［ wins ］
-────────────────────────
-1st Place
-OpenAI Build Week
-Codex Hackathon
-
-［ tech stack ］
-────────────────────────
-react · nodejs · python · cuda
-ai · c++ · opencv
-
-［ links ］
-────────────────────────
-<a href="https://leetcode.com/u/icybear02/">leetcode</a> · <a href="mailto:vimzh.dev@gmail.com">icyzh.dev@proton.me</a> · <a href="https://icyzh.dev">portfolio</a>
-  </pre>
 </div>
+
+<img src="./assets/quest.svg" width="100%" alt="quest log: write an llm inference engine in cuda; learn rust by building a faster one. achievement: 1st place, openai build week codex hackathon" />
+
+```
+links
+────────────────────────
+```
+[portfolio](https://icyzh.dev) · [leetcode](https://leetcode.com/u/icybear02/) · [mohitmadan128@gmail.com](mailto:mohitmadan128@gmail.com)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icyzh/icyzh/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/icyzh/icyzh/output/snake.svg" alt="contribution graph" width="100%" />
+</picture>
+
+<sub><img src="https://komarev.com/ghpvc/?username=Mmadan128&color=3a6b8c&style=flat-square&label=views" /> <a href="https://holopin.io/@mmadan128"><img src="https://holopin.me/mmadan128" height="16" /></a></sub>
