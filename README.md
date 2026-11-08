@@ -15,4 +15,8 @@
   <img src="https://raw.githubusercontent.com/icyzh/icyzh/output/snake.svg" alt="contribution graph" width="100%" />
 </picture>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=icyzh&hide_border=true&background=0B1220&ring=5AD1FF&fire=9BE7FF&currStreakLabel=5AD1FF&sideLabels=9BE7FF&currStreakNum=F2FBFF&sideNums=F2FBFF&dates=3A6B8C&stroke=1D3B57&font_family=IBM%20Plex%20Mono,Consolas,monospace" alt="contribution stats" width="100%" />
+</p>
+
 <sub><img src="https://komarev.com/ghpvc/?username=Mmadan128&color=3a6b8c&style=flat-square&label=views" /> <a href="https://holopin.io/@mmadan128"><img src="https://holopin.me/mmadan128" height="16" /></a></sub>
