@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="icyzh — ai engineer. stack: cuda, c++, python, react, node, opencv" />
+<img src="./assets/header.svg" width="100%" alt="icyzh — ai engineer. stack: cuda, c++, python, pytorch, triton, sglang" />
 
 </div>
 
-<img src="./assets/quest.svg" width="100%" alt="quest log: write an llm inference engine in cuda; learn rust by building a faster one. achievement: 1st place, openai build week codex hackathon" />
+<img src="./assets/quest.svg" width="100%" alt="quest log: optimizing cuda; learning rust. achievement: 1st place, openai build week codex hackathon" />
 
 ```
 links
