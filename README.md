@@ -6,13 +6,9 @@
 
 <img src="./assets/quest.svg" width="100%" alt="quest log: optimizing cuda; learning rust. achievement: 1st place, openai build week codex hackathon" />
 
-```
-links
-────────────────────────
-```
-[portfolio](https://icyzh.dev) · [leetcode](https://leetcode.com/u/icybear02/) · [mohitmadan128@gmail.com](mailto:mohitmadan128@gmail.com)
-
-<br/>
+<p align="center">
+  <a href="https://icyzh.dev"><code>portfolio</code></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://leetcode.com/u/icybear02/"><code>leetcode</code></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:mohitmadan128@gmail.com"><code>mohitmadan128@gmail.com</code></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icyzh/icyzh/output/snake-dark.svg" />
